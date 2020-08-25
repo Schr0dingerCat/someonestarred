@@ -1,0 +1,669 @@
+## Makefile
+- [LibreELEC.tv](https://github.com/LibreELEC/LibreELEC.tv) Just enough OS for KODI
+
+- [project-layout](https://github.com/golang-standards/project-layout) Standard Go Project Layout
+
+- [CoreELEC](https://github.com/RuralHunter/CoreELEC) This is CoreELEC for Phicomm N1 device only. Run ./mkn1 to build.
+
+- [CoreELEC](https://github.com/CoreELEC/CoreELEC) A lightweight OS for KODI
+
+## Go
+- [go-bindata](https://github.com/go-bindata/go-bindata) Turn data file into go code.
+
+- [kratos](https://github.com/go-kratos/kratos) Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
+
+- [sentinel-golang](https://github.com/alibaba/sentinel-golang) Sentinel Go version (Reliability & Resilience)
+
+- [qcloundsms-go](https://github.com/sasaxie/qcloundsms-go) 腾讯云短信SDK
+
+- [mulinge](https://github.com/sasaxie/mulinge)
+
+- [ent](https://github.com/facebook/ent) An entity framework for Go
+
+- [client](https://github.com/keybase/client) Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
+
+- [viper](https://github.com/spf13/viper) Go configuration with fangs
+
+- [flash](https://github.com/mojocn/flash) HTTP断点续传多线程下载原理
+
+- [goquery](https://github.com/PuerkitoBio/goquery) A little like that j-thing, only in Go.
+
+- [pinyin](https://github.com/axgle/pinyin) convert chinese to pinyin
+
+- [simplefts](https://github.com/akrylysov/simplefts) Simple Full-Text Search engine
+
+- [golang-http-file-upload-download](https://github.com/zupzup/golang-http-file-upload-download) A simple example of an HTTP upload and download in Go
+
+- [blog](https://github.com/jiajunhuang/blog) Jiajun的编程随想
+
+- [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) An open source re-implementation of Diablo 2
+
+- [alink](https://github.com/gitgitcode/alink) Golang package to read href,video,title ,img ... tags from an HTML page
+
+- [ledisdb](https://github.com/ledisdb/ledisdb) A high performance NoSQL Database Server powered by Go
+
+- [gohttpuploadbigfile](https://github.com/rickeyliao/gohttpuploadbigfile) http upload big file
+
+- [gse](https://github.com/go-ego/gse) Go efficient text segmentation @vcaesar; support english, chinese, japanese and other. Go 语言高性能分词
+
+- [gocc](https://github.com/liuzl/gocc) Golang version OpenCC 繁簡轉換
+
+- [goleveldb](https://github.com/syndtr/goleveldb) LevelDB key/value database in Go.
+
+- [bolt](https://github.com/boltdb/bolt) An embedded key/value database for Go.
+
+- [nutsdb](https://github.com/xujiajun/nutsdb) A simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as list, set, sorted set.
+
+- [tiedot](https://github.com/HouzuoGuo/tiedot) Your NoSQL database powered by Golang
+
+- [GoApps](https://github.com/ychenracing/GoApps) Apps implemented by golang including Spiders, LRU cache, a simple BlockChain network, etc.
+
+- [goproxy](https://github.com/goproxyio/goproxy) A global proxy for Go modules.
+
+- [gout](https://github.com/guonaihong/gout) gout to become the Swiss Army Knife of the http client @^^@---> gout 是http client领域的瑞士军刀，小巧，强大，犀利。具体用法可看文档，如使用迷惑或者API用得不爽都可提issues
+
+- [ftpsync](https://github.com/zlcting/ftpsync)
+
+- [wol](https://github.com/zzustu/wol) Wake on Lan 网络唤醒工具
+
+- [ini](https://github.com/go-ini/ini) Package ini provides INI file read and write functionality in Go.
+
+- [ac](https://github.com/Vonng/ac) Aho-Corasick Automaton with Double Array Trie (Multi-pattern substitute in go)
+
+- [gosubmit](https://github.com/jeremija/gosubmit) Go library for parsing and submitting HTML forms
+
+- [btree](https://github.com/google/btree)
+
+- [go-chart](https://github.com/wcharczuk/go-chart) go chart is a basic charting library in native golang.
+
+- [qtfaststart](https://github.com/suconghou/qtfaststart) qt-faststart but can work for http
+
+- [esbuild](https://github.com/evanw/esbuild) An extremely fast JavaScript bundler and minifier
+
+- [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) A golang ebook intro how to build a web with golang
+
+- [scs](https://github.com/alexedwards/scs) HTTP Session Management for Go
+
+- [ants](https://github.com/panjf2000/ants) 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。
+
+- [wuid](https://github.com/edwingeng/wuid) An extremely fast UUID alternative written in golang
+
+- [kcp-go](https://github.com/xtaci/kcp-go) A Crypto-Secure, Production-Grade Reliable-UDP Library for golang with FEC
+
+- [opencc](https://github.com/sgoby/opencc) 基于OpenCC中文简繁体转换的golang开发包
+
+- [pinyin](https://github.com/huichen/pinyin) Go语言汉字转拼音工具
+
+- [Go-pinyin](https://github.com/struCoder/Go-pinyin) hàn zì pīn yīn for Golang
+
+- [go-pinyin](https://github.com/mozillazg/go-pinyin) 汉字转拼音
+
+- [barcode](https://github.com/boombuler/barcode) a barcode creation lib for golang
+
+- [gojieba](https://github.com/yanyiwu/gojieba) "结巴"中文分词的Golang版本
+
+- [sego](https://github.com/huichen/sego) Go中文分词
+
+- [cloud-torrent](https://github.com/jpillora/cloud-torrent) ☁️ Cloud Torrent: a self-hosted remote torrent client
+
+- [filebrowser](https://github.com/filebrowser/filebrowser) 📂 Web File Browser which can be used as a middleware or standalone app.
+
+- [hoz](https://github.com/helloh2o/hoz) A light weight fast HTTP & SOCKS5 Proxy
+
+- [cache2go](https://github.com/muesli/cache2go) Concurrency-safe Go caching library with expiration capabilities and access counters
+
+- [tank](https://github.com/eyebluecn/tank) 《蓝眼云盘》(Eyeblue Cloud Storage)
+
+- [golangci-lint](https://github.com/golangci/golangci-lint) Fast linters Runner for Go
+
+- [YTask](https://github.com/gojuukaze/YTask) YTask is an asynchronous task queue for handling distributed jobs in golang（go异步任务队列）
+
+- [skopeo](https://github.com/containers/skopeo) Work with remote images registries - retrieving information, images, signing content
+
+- [uilive](https://github.com/gosuri/uilive) uilive is a go library for updating terminal output in realtime
+
+- [pb](https://github.com/cheggaaa/pb) Console progress bar for Golang
+
+- [uiprogress](https://github.com/gosuri/uiprogress) A go library to render progress bars in terminal applications
+
+- [mpb](https://github.com/vbauerster/mpb) multi progress bar for Go cli applications
+
+- [ioprogress](https://github.com/mitchellh/ioprogress) Go (golang) package for progress bars around io.Reader/Writers.
+
+- [progressbar](https://github.com/schollz/progressbar) A really basic thread-safe progress bar for Golang applications
+
+- [pgbar](https://github.com/qianlnk/pgbar) progress bar
+
+- [multibar](https://github.com/sethgrid/multibar) Display multiple progress bars in Go (golang).
+
+- [go](https://github.com/json-iterator/go) A high-performance 100% compatible drop-in replacement of "encoding/json"
+
+- [otto](https://github.com/robertkrimen/otto) A JavaScript interpreter in Go (golang)
+
+- [colly](https://github.com/gocolly/colly) Elegant Scraper and Crawler Framework for Golang
+
+- [htmlquery](https://github.com/antchfx/htmlquery) htmlquery is golang XPath package for HTML query.
+
+- [buildah](https://github.com/containers/buildah) A tool that facilitates building OCI images
+
+- [podman](https://github.com/containers/podman) Podman: A tool for managing OCI containers and pods
+
+- [v2ray-core](https://github.com/v2ray/v2ray-core) A platform for building proxies to bypass network restrictions.
+
+- [LeetCode-in-Go](https://github.com/aQuaYi/LeetCode-in-Go) Go Solution for LeetCode algorithms problems, 100% coverage.
+
+- [MTBSystem](https://github.com/wiatingpub/MTBSystem) 使用go-micro微服务实现的在线电影院订票系统
+
+- [kingpin](https://github.com/alecthomas/kingpin) CONTRIBUTIONS ONLY: A Go (golang) command line and flag parser
+
+- [fonts-config-ng](https://github.com/marguerite/fonts-config-ng) 🚀 Next Generation fonts-config for openSUSE 🦎
+
+- [frp](https://github.com/fatedier/frp) A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+
+- [unioffice](https://github.com/unidoc/unioffice) Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents
+
+- [go-git](https://github.com/src-d/go-git) Projects has been moved to:
+
+- [magnetico](https://github.com/boramalper/magnetico) Autonomous (self-hosted) BitTorrent DHT search engine suite.
+
+- [snappy](https://github.com/golang/snappy) The Snappy compression format in the Go programming language.
+
+- [cron](https://github.com/robfig/cron) a cron library for go
+
+- [google-cloud-go](https://github.com/googleapis/google-cloud-go) Google Cloud Client Libraries for Go.
+
+- [go-mssqldb](https://github.com/denisenkom/go-mssqldb) Microsoft SQL server driver written in go language
+
+- [gomail](https://github.com/go-gomail/gomail) The best way to send emails in Go.
+
+- [deepcopy](https://github.com/mohae/deepcopy) Deep copy things
+
+- [goftp](https://github.com/dutchcoders/goftp) Golang FTP library with Walk support.
+
+- [ftp](https://github.com/jlaffaye/ftp) FTP client package for Go
+
+- [fileboy](https://github.com/dengsgo/fileboy) fileboy，文件变更监听通知工具，使用 Go 编写。Fileboy, File Change Monitoring Notification Tool, written with Go.
+
+- [godingtalk](https://github.com/hugozhu/godingtalk) DingTalk Open API golang SDK
+
+- [fsnotify](https://github.com/howeyc/fsnotify) File system notification for Go
+
+- [fsnotify](https://github.com/fsnotify/fsnotify) Cross-platform file system notifications for Go.
+
+- [goNum](https://github.com/chfenger/goNum) 开源Go语言数值算法库(An open numerical library purely based on Go programming language)
+
+- [Go](https://github.com/LockGit/Go) leetcode with golang 🚀
+
+- [git-checkout-branch](https://github.com/royeo/git-checkout-branch) Switch git branch interactively.
+
+- [ngrok](https://github.com/inconshreveable/ngrok) Introspected tunnels to localhost
+
+- [printer](https://github.com/alexbrainman/printer) Windows printing
+
+- [webloop](https://github.com/sourcegraph/webloop) WebLoop: Scriptable, headless WebKit with a Go API. Like PhantomJS, but for Go.
+
+- [gitea](https://github.com/go-gitea/gitea) Git with a cup of tea, painless self-hosted git service
+
+- [usql](https://github.com/xo/usql) Universal command-line interface for SQL databases
+
+- [redis](https://github.com/go-redis/redis) Type-safe Redis client for Golang
+
+- [redigo](https://github.com/gomodule/redigo) Go client for Redis
+
+- [pq](https://github.com/lib/pq) Pure Go Postgres driver for database/sql
+
+- [ezrpc](https://github.com/ezbuy/ezrpc)
+
+- [ezorm](https://github.com/ezbuy/ezorm)
+
+- [redis-orm](https://github.com/ezbuy/redis-orm) write db yaml once, generate go orm code everywhere.
+
+- [chromedp](https://github.com/chromedp/chromedp) A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
+
+- [Mancy](https://github.com/rootrl/Mancy) Mancy is a file watcher which supported to auto upload the changes to remote server via ssh/sftp.
+
+- [coredns](https://github.com/coredns/coredns) CoreDNS is a DNS server that chains plugins
+
+- [dns](https://github.com/miekg/dns) DNS library in Go
+
+- [gogs](https://github.com/gogs/gogs) Gogs is a painless self-hosted Git service
+
+- [hugo](https://github.com/gohugoio/hugo) The world’s fastest framework for building websites.
+
+- [awesome-go](https://github.com/avelino/awesome-go) A curated list of awesome Go frameworks, libraries and software
+
+- [kubernetes](https://github.com/kubernetes/kubernetes) Production-Grade Container Scheduling and Management
+
+- [mahonia](https://github.com/axgle/mahonia) character-set conversion library implemented in Go
+
+- [surf](https://github.com/headzoo/surf) Stateful programmatic web browsing in Go.
+
+- [match](https://github.com/tidwall/match) Simple string pattern matcher for Go
+
+- [gjson](https://github.com/tidwall/gjson) Get JSON values quickly - JSON parser for Go
+
+- [pholcus](https://github.com/henrylee2cn/pholcus) Pholcus is a distributed high-concurrency crawler software written in pure golang
+
+- [qrcp](https://github.com/claudiodangelis/qrcp) :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
+
+- [go-simplejson](https://github.com/bitly/go-simplejson) a Go package to interact with arbitrary JSON
+
+- [ui](https://github.com/andlabs/ui) Platform-native GUI library for Go.
+
+- [xxHash](https://github.com/pierrec/xxHash) Pure Go implementation of xxHash (32 and 64 bits versions)
+
+- [lz4](https://github.com/pierrec/lz4) LZ4 compression and decompression in pure Go
+
+- [xz](https://github.com/ulikunitz/xz) Pure golang package for reading and writing xz-compressed files
+
+- [compress](https://github.com/dsnet/compress) Collection of compression related Go packages.
+
+- [cli](https://github.com/urfave/cli) A simple, fast, and fun package for building command line apps in Go
+
+- [archiver](https://github.com/mholt/archiver) Easily create & extract archives, and compress & decompress files of various formats
+
+- [unpackit](https://github.com/c4milo/unpackit) Go package to natively decompress and unarchive tar.gz, tar.bzip2, tar.xz, zip and tar files.
+
+- [zip](https://github.com/alexmullins/zip) Fork of Go's archive/zip to add reading/writing of password protected zip files.
+
+- [win-go-zipper](https://github.com/rayhaanq/win-go-zipper) Create zips from folders for aws lambda from windows
+
+- [influxdb](https://github.com/influxdata/influxdb) Scalable datastore for metrics, events, and real-time analytics
+
+- [delve](https://github.com/go-delve/delve) Delve is a debugger for the Go programming language.
+
+- [go-qrcode](https://github.com/skip2/go-qrcode) :sparkles: QR Code encoder (Go)
+
+- [dht](https://github.com/shiyanhui/dht) BitTorrent DHT Protocol && DHT Spider.
+
+- [torsniff](https://github.com/fanpei91/torsniff) torsniff - a sniffer that sniffs torrents from BitTorrent network
+
+- [caddy](https://github.com/caddyserver/caddy) Fast, multi-platform web server with automatic HTTPS
+
+- [GoWftp](https://github.com/crabkun/GoWftp) 一个用Golang编写的支持多用户和WEB管理的FTP服务端
+
+- [switcher](https://github.com/crabkun/switcher) 一个多功能的端口转发/端口复用工具，支持转发本地或远程地址的端口，支持正则表达式转发（实现端口复用）。
+
+- [ERP](https://github.com/itcloudy/ERP) 基于beego的进销存系统
+
+- [excelize](https://github.com/360EntSecGroup-Skylar/excelize) Golang library for reading and writing Microsoft Excel™ (XLSX) files.
+
+- [xlsxtomysql](https://github.com/TargetLiu/xlsxtomysql) 这是工作中用到的一个小工具，将Excel(xlsx)表导入MySQL表中，用Golang写的，支持随机数生成、密码生成、时间戳；支持关联查询、附表操作等。
+
+- [xlsx](https://github.com/tealeg/xlsx) Go (golang) library for reading and writing XLSX files.
+
+- [pg](https://github.com/go-pg/pg) Golang ORM with focus on PostgreSQL features and performance
+
+- [TCP-IP-Study](https://github.com/godla/TCP-IP-Study) TCP/IP-study wtih golang
+
+- [syncthing](https://github.com/syncthing/syncthing) Open Source Continuous File Synchronization
+
+- [gin](https://github.com/gin-gonic/gin) Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+
+- [beego](https://github.com/astaxie/beego) beego is an open-source, high-performance web framework for the Go programming language.
+
+- [iris](https://github.com/kataras/iris) The fastest HTTP/2 Go Web Framework. Serverless, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. A true successor of expressjs and laravel | 谢谢 https://github.com/kataras/iris/issues/1329 |
+
+- [goproxy](https://github.com/snail007/goproxy) Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,黑白名单,限速,限流量,限连接数,跨平台,KCP支持,认证API。
+
+- [go-fstab](https://github.com/d-tux/go-fstab) Simple fstab parser for Go
+
+- [AnotherSteamCommunityFix](https://github.com/makazeu/AnotherSteamCommunityFix) 通过修改hosts转发HTTP请求的方式临时性修复SteamCommunity在中国大陆无法访问的小工具
+
+- [xorm](https://github.com/go-xorm/xorm) Simple and Powerful ORM for Go, support mysql,postgres,tidb,sqlite3,mssql,oracle, Moved to https://gitea.com/xorm/xorm
+
+- [pgweb](https://github.com/sosedoff/pgweb) Cross-platform client for PostgreSQL databases
+
+- [moby](https://github.com/moby/moby) Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+
+- [go](https://github.com/golang/go) The Go programming language
+
+## Shell
+- [linux-router](https://github.com/garywill/linux-router) Set Linux as router in one command. Support Internet sharing, redsocks, Wifi hotspot, IPv6. Can also be used for routing VM/containers
+
+- [Actions-OpenWrt](https://github.com/garypang13/Actions-OpenWrt) Automatic unattended weekly builds of the current OpenWrt development master branch
+
+- [tracker-add](https://github.com/AndrewMarchukov/tracker-add) Fully automated script for adding more trackers to Transmission.
+
+- [transmission](https://github.com/oilervoss/transmission) Scripts for transmission
+
+- [aria2.conf](https://github.com/P3TERX/aria2.conf) Aria2 配置文件 | OneDrive & Google Drvive 离线下载 | 百度网盘转存
+
+- [Aria2-static-build-128-thread](https://github.com/king567/Aria2-static-build-128-thread) 一鍵編譯aria2腳本
+
+- [aria2-static-builds](https://github.com/q3aql/aria2-static-builds) aria2 static builds for GNU/Linux & Windows (with OpenSSL).
+
+- [nsfw_data_scraper](https://github.com/alex000kim/nsfw_data_scraper) Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier
+
+- [dhtcrawler2](https://github.com/kevinlynx/dhtcrawler2) dhtcrawler is a DHT crawler written in erlang. It can join a DHT network and crawl many P2P torrents. The program save all torrent info into database and provide an http interface to search a torrent by a keyword
+
+- [pi-hole](https://github.com/pi-hole/pi-hole) A black hole for Internet advertisements
+
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) 🙃 A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+
+- [vsftpdConfig](https://github.com/Schr0dingerCat/vsftpdConfig) vsftpd安装及虚拟用户设置
+
+## Other
+- [bittorrent-specification-chinese-edition](https://github.com/fenying/bittorrent-specification-chinese-edition) BT 协议规范文档中文版
+
+- [TrackersListCollection](https://github.com/XIU2/TrackersListCollection) 🎈 Updated daily! A list of popular BitTorrent Trackers. / 每天更新！全网热门 BT Tracker 列表！
+
+- [Tvlist-awesome-m3u-m3u8](https://github.com/billy21/Tvlist-awesome-m3u-m3u8) 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
+
+- [awesome-iptv](https://github.com/iptv-org/awesome-iptv) A curated list of resources related to IPTV
+
+- [thoradia](https://github.com/thoradia/thoradia) Thoradia Repositories
+
+- [wtv](https://github.com/biancangming/wtv) 解决电脑、手机看电视直播的苦恼，收集各种直播源，电视直播网站
+
+- [Gunzotv](https://github.com/Gunzoman/Gunzotv)
+
+- [cdshh](https://github.com/tresMil/cdshh)
+
+- [rty](https://github.com/tresMil/rty)
+
+- [qazxdwweff](https://github.com/tresMil/qazxdwweff)
+
+- [directs](https://github.com/mik25/directs)
+
+- [myiptv.](https://github.com/ezuca20/myiptv.)
+
+- [tv](https://github.com/FSMatheusFS/tv) tv
+
+- [watchiptv](https://github.com/akramiou/watchiptv) my first ip tv essaie
+
+- [inot](https://github.com/inothingz/inot)
+
+- [arabtsmedia](https://github.com/kldon111/arabtsmedia) Arabic Series Ramadan Series 2015 Arabic movies Documentary films Children-carton Series TurkishTV programs islamic other
+
+- [ASIAN-CHANNEL](https://github.com/syukriadi/ASIAN-CHANNEL)
+
+- [live](https://github.com/zzlab2018/live) 直播源
+
+- [trackerslist](https://github.com/ngosang/trackerslist) Updated list of public BitTorrent trackers
+
+- [android_guides](https://github.com/codepath/android_guides) Extensive Open-Source Guides for Android Developers
+
+- [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) A curated list of awesome Android UI/UX libraries
+
+- [DotFiles](https://github.com/wsdjeg/DotFiles) My dotfiles for Archlinux and Windows
+
+- [Crack](https://github.com/Schr0dingerCat/Crack)
+
+- [SystemdCustomService](https://github.com/Schr0dingerCat/SystemdCustomService) linux发行版使用systemd，自定义service
+
+## C++
+- [latte-dock](https://github.com/KDE/latte-dock) Replacement dock for Plasma desktops, providing an elegant and intuitive experience for your tasks and plasmoids
+
+- [QLivePlayer](https://github.com/IsoaSFlus/QLivePlayer) A cute and useful Live Stream Player with danmaku support.
+
+- [GoSerialPortDriver](https://github.com/yizheneng/GoSerialPortDriver) A driver for go
+
+- [OpenCC](https://github.com/BYVoid/OpenCC) Conversion between Traditional and Simplified Chinese
+
+- [leveldb](https://github.com/google/leveldb) LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+
+- [shadowsocks-qt5](https://github.com/shadowsocks/shadowsocks-qt5) A cross-platform shadowsocks GUI client
+
+- [qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) [Unofficial] qBittorrent BitTorrent client (Enhanced Edition)
+
+- [qBittorrent](https://github.com/qbittorrent/qBittorrent) qBittorrent BitTorrent client
+
+- [aria2](https://github.com/aria2/aria2) aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+
+- [keepassxc](https://github.com/keepassxreboot/keepassxc) KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
+
+- [keepassx](https://github.com/keepassx/keepassx) KeePassX is a cross platform port of the windows application “Keepass Password Safe”.
+
+- [pdns](https://github.com/PowerDNS/pdns) PowerDNS Authoritative, PowerDNS Recursor, dnsdist
+
+- [caffe](https://github.com/BVLC/caffe) Caffe: a fast open framework for deep learning.
+
+- [liteide](https://github.com/visualfc/liteide) LiteIDE is a simple, open source, cross-platform Go IDE.
+
+- [ssr](https://github.com/MaartenBaert/ssr) SimpleScreenRecorder, a screen recorder for Linux
+
+- [tinyrpc](https://github.com/hjk41/tinyrpc) A simple but usable RPC framework
+
+- [navicat-keygen](https://github.com/DoubleLabyrinth/navicat-keygen) A keygen for Navicat
+
+## Python
+- [pinyin-data](https://github.com/mozillazg/pinyin-data) 汉字拼音数据
+
+- [ykdl](https://github.com/zhangn1985/ykdl) a video downloader focus on China mainland video sites.
+
+- [jieba](https://github.com/fxsjy/jieba) 结巴中文分词
+
+- [keyword_extraction](https://github.com/AimeeLee77/keyword_extraction) 利用Python实现中文文本关键词抽取，分别采用TF-IDF、TextRank、Word2Vec词聚类三种方法。
+
+- [IPTV-List-Updater](https://github.com/Nobody28/IPTV-List-Updater) Convert m3u Files from Servers & Install/Update IPTV Bouquets
+
+- [DeepCreamPy](https://github.com/deeppomf/DeepCreamPy) Decensoring Hentai with Deep Neural Networks
+
+- [open_nsfw](https://github.com/yahoo/open_nsfw) Not Suitable for Work (NSFW) classification using deep neural network Caffe models.
+
+- [nsfw](https://github.com/rockyzhengwu/nsfw) Suitable for Work (NSFW) classification
+
+- [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) A code-completion engine for Vim
+
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl) Command-line program to download videos from YouTube.com and other video sites
+
+- [you-get](https://github.com/soimort/you-get) :arrow_double_down: Dumb downloader that scrapes the web
+
+- [rpi-temp-humid-monitor](https://github.com/jervine/rpi-temp-humid-monitor) Raspberry Pi temperature humidity monitor
+
+## CSS
+- [gopher](https://github.com/jimmykuu/gopher) Golang-China(golangtc.com) Website
+
+- [transmission_web-zh_cn](https://github.com/tuziwo/transmission_web-zh_cn)
+
+- [caddy-cn-doc](https://github.com/phpple/caddy-cn-doc) Caddy中文文档
+
+- [examples](https://github.com/caddyserver/examples) OBSOLETE. This repo was for Caddy v1. For v2 and newer, see our forum's wiki category.
+
+## Java
+- [tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
+
+- [flutter_qrcode_reader](https://github.com/bcko/flutter_qrcode_reader) Flutter qrcode reader
+
+- [qrcode_scanner](https://github.com/leyan95/qrcode_scanner) 🛠 Flutter QR code scanner plugin.
+
+- [QRGen](https://github.com/kenglxn/QRGen) a simple QRCode generation api for java built on top ZXING
+
+- [CS-Notes](https://github.com/CyC2018/CS-Notes) :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
+
+- [keepass2android](https://github.com/PhilippC/keepass2android) Password manager app for Android
+
+- [springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example) spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固的最佳实践。另外写博客，用 OpenWrite。
+
+- [advanced-java](https://github.com/doocs/advanced-java) 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习
+
+- [android](https://github.com/nextcloud/android) 📱 Nextcloud Android app
+
+- [QrCodeScan](https://github.com/HappyMiao/QrCodeScan) 二维码扫描Demo QrCodeScan zxing
+
+- [QRCode](https://github.com/5peak2me/QRCode) 二维码扫描Demo,支持扫描生成以及从相册选择图片扫描等。基于ZXing Android修改实现的QRCode扫描支持库。
+
+- [zxing](https://github.com/zxing/zxing) ZXing ("Zebra Crossing") barcode scanning library for Java, Android
+
+- [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) :fire: Android developers should collect the following utils(updating).
+
+- [tgen](https://github.com/ezbuy/tgen)
+
+- [Android-ZBLibrary](https://github.com/TommyLemon/Android-ZBLibrary) 🔥Android MVP 快速开发框架，做国内 「示例最全面」「注释最详细」「使用最简单」「代码最严谨」的 Android 开源 UI 框架。 🔥An Android MVP Framework with many demos, detailed documents, simple usages and strict codes.
+
+- [QRCodeReaderView](https://github.com/dlazaro66/QRCodeReaderView) Modification of ZXING Barcode Scanner project for easy Android QR-Code detection and AR purposes
+
+- [barcodescanner](https://github.com/dm77/barcodescanner) Barcode Scanner Libraries for Android
+
+- [smali](https://github.com/JesusFreke/smali) smali/baksmali
+
+- [ip2region](https://github.com/lionsoul2014/ip2region) Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is ONLY a few megabytes with all IP address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
+
+- [JDatePicker](https://github.com/JDatePicker/JDatePicker) JDatePicker: Java Swing Date Picker
+
+- [sqlite-jdbc](https://github.com/xerial/sqlite-jdbc) SQLite JDBC Driver
+
+- [syncthing-android](https://github.com/syncthing/syncthing-android) Wrapper of syncthing for Android.
+
+- [android](https://github.com/owncloud/android) :phone: The ownCloud Android App
+
+## C
+- [mpv](https://github.com/mpv-player/mpv) 🎥 Command line video player
+
+- [vlmcsd](https://github.com/Wind4/vlmcsd) KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)
+
+- [FFmpeg](https://github.com/FFmpeg/FFmpeg) Mirror of git://source.ffmpeg.org/ffmpeg.git
+
+- [upx](https://github.com/upx/upx) UPX - the Ultimate Packer for eXecutables
+
+- [nfs-ganesha](https://github.com/nfs-ganesha/nfs-ganesha) NFS-Ganesha is an NFSv3,v4,v4.1 fileserver that runs in user mode on most UNIX/Linux systems
+
+- [QrCodeScan](https://github.com/chentao0707/QrCodeScan) Android手机客户端二维码扫描
+
+- [transmission](https://github.com/transmission/transmission) Official Transmission BitTorrent client repository
+
+- [redis](https://github.com/redis/redis) Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
+
+- [BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android) QRCode 扫描二维码、扫描条形码、相册获取图片后识别、生成带 Logo 二维码、支持微博微信 QQ 二维码扫描样式
+
+- [henkaku](https://github.com/henkaku/henkaku) Homebrew enabler for PS Vita
+
+- [VitaShell](https://github.com/TheOfficialFloW/VitaShell) Multi-functional file manager for PS Vita
+
+- [go-sqlite3](https://github.com/mattn/go-sqlite3) sqlite3 driver for go using database/sql
+
+- [linux](https://github.com/torvalds/linux) Linux kernel source tree
+
+## JavaScript
+- [blockui](https://github.com/malsup/blockui) jQuery BlockUI Plugin
+
+- [awesome-mac](https://github.com/jaywcjlove/awesome-mac)  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+
+- [chat](https://github.com/winlion/chat) 基于golang 的im 聊天项目
+
+- [jquery](https://github.com/jquery/jquery) jQuery JavaScript Library
+
+- [iptv](https://github.com/iptv-org/iptv) Collection of 8000+ publicly available IPTV channels from all over the world
+
+- [AriaNg](https://github.com/mayswind/AriaNg) AriaNg, a modern web frontend making aria2 easier to use.
+
+- [keepassxc-browser](https://github.com/keepassxreboot/keepassxc-browser) KeePassXC Browser Extension
+
+- [ChromeSnifferPlus](https://github.com/justjavac/ChromeSnifferPlus) :mag: Sniff web framework and javascript libraries run on browsing website.
+
+- [ex-baiduyunpan](https://github.com/gxvv/ex-baiduyunpan) 百度云盘、百度云盘企业版解除大文件限制，批量复制链接
+
+- [webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) ❤️ Streaming torrent app for Mac, Windows, and Linux
+
+- [bing](https://github.com/xCss/bing) Bing 壁纸 API
+
+- [baidu-nolimit](https://github.com/cloudroc/baidu-nolimit) 百度云大文件下载破解,chrome插件
+
+- [baidu-netdisk-high-speed](https://github.com/b3log/baidu-netdisk-high-speed) :zap: 百度网盘不限速下载 Chrome 插件。
+
+- [gnome-shell-extension-clipboard-indicator](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator) Clipboard Manager extension for Gnome-Shell - Adds a clipboard indicator to the top panel, and saves clipboard history.
+
+- [gnome-shell-system-monitor-applet](https://github.com/paradoxxxzero/gnome-shell-system-monitor-applet) Display system informations in gnome shell status bar, such as memory usage, cpu usage, network rates…
+
+- [hidetopbar](https://github.com/mlutfy/hidetopbar) Gnome 3 extension to hide the top bar except in overview mode
+
+## C#
+- [v2rayN](https://github.com/2dust/v2rayN)
+
+- [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) If you want to keep a secret, you must also hide it from yourself.
+
+- [USB4ScanGun](https://github.com/allanpk716/USB4ScanGun) USB扫描枪识别，已获取对应扫描枪返回值的测试程序
+
+- [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) C# application with primary purpose of idling Steam cards from multiple accounts simultaneously.
+
+## HTML
+- [homenet6.github.io](https://github.com/homenet6/homenet6.github.io)
+
+- [flutter-in-action](https://github.com/flutterchina/flutter-in-action) 《Flutter实战》电子书
+
+- [iptv-m3u-maker](https://github.com/EvilCult/iptv-m3u-maker) IPTV 国内+国外 电视台直播源m3u文件, 收集&汇总&本地源脚本
+
+- [gumbo-parser](https://github.com/google/gumbo-parser) An HTML5 parsing library in pure C99
+
+## Dart
+- [flutter_study](https://github.com/lizhuoyuan/flutter_study) flutter 学习记录
+
+- [login_ui](https://github.com/pr-Mais/login_ui) A simple and clean login UI design using Flutter!
+
+- [flutter-login-home-animation](https://github.com/GeekyAnts/flutter-login-home-animation)
+
+- [FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps) [Example APPS] Basic Flutter apps, for flutter devs.
+
+- [flutter-go](https://github.com/alibaba/flutter-go) flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档
+
+- [awesome-flutter](https://github.com/Solido/awesome-flutter) An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
+
+- [flutter_qr_code_scanner_generator_sharing](https://github.com/alfianlosari/flutter_qr_code_scanner_generator_sharing) Flutter App For Scanning, Generating, Sharing QR Code
+
+- [Flutter-learning](https://github.com/AweiLoveAndroid/Flutter-learning) :octocat::fire: :+1: :star2: :star: :star::star: Flutter all you want.Flutter install,flutter samples,Flutter projects,Flutter plugin,Flutter problems,Dart codes,etc.Flutter安装和配置，Flutter开发遇到的难题，Flutter示例代码和模板，Flutter项目实战，Dart语言学习示例代码。
+
+- [gsy_github_app_flutter](https://github.com/CarGuo/gsy_github_app_flutter) Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：我们目前已经拥有Flutter、Weex、ReactNative、kotlin 四个版本。 功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，对比参考。跨平台的开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便的驾车体验Σ(￣。￣ﾉ)ﾉ。同款Weex版本 ： https://github.com/CarGuo/GSYGithubAppWeex 、同款React Native版本 ： https://github.com/CarGuo/GSYGithubApp 、原生 kotlin 版本 https://github.com/CarGuo/GSYGithubAppKotlin
+
+- [plugins](https://github.com/flutter/plugins) Plugins for Flutter maintained by the Flutter team
+
+- [flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+
+- [sdk](https://github.com/dart-lang/sdk) The Dart SDK, including the VM, dart2js, core libraries, and more.
+
+## Objective-C
+- [QRCodeReaderFlutter](https://github.com/ponnamkarthik/QRCodeReaderFlutter) Flutter Plugin for QRCode Reader
+
+## Ruby
+- [FlutterQRScanner-App](https://github.com/iampawan/FlutterQRScanner-App)
+
+## Kotlin
+- [RxTool](https://github.com/Tamsiree/RxTool) Android开发人员不得不收集的工具类集合 | 支付宝支付 | 微信支付（统一下单） | 微信分享 | Zip4j压缩（支持分卷压缩与加密） | 一键集成UCrop选择圆形头像 | 一键集成二维码和条形码的扫描与生成 | 常用Dialog | WebView的封装可播放视频 | 仿斗鱼滑动验证码 | Toast封装 | 震动 | GPS | Location定位 | 图片缩放 | Exif 图片添加地理位置信息（经纬度） | 蛛网等级 | 颜色选择器 | ArcGis | VTPK | 编译运行一下说不定会找到惊喜
+
+## Pascal
+- [transgui](https://github.com/transmission-remote-gui/transgui) 🧲 A feature rich cross platform Transmission BitTorrent client. Faster and has more functionality than the built-in web GUI.
+
+## Perl
+- [Thai_TV_Movies_Series_Siam_kodi_navi_x](https://github.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x) KODI_Navi-x_playlist_plx
+
+## TypeScript
+- [tank-front](https://github.com/eyebluecn/tank-front) 蓝眼系列软件之《蓝眼云盘》前端项目
+
+- [PeerTube](https://github.com/Chocobozzz/PeerTube) ActivityPub-federated video streaming platform using P2P directly in your web browser
+
+- [vscode-go](https://github.com/microsoft/vscode-go) An extension for VS Code which provides support for the Go language. We have moved to https://github.com/golang/vscode-go
+
+- [vscode](https://github.com/microsoft/vscode) Visual Studio Code
+
+## PHP
+- [avbook](https://github.com/guyueyingmu/avbook) AV 电影管理系统， avmoo , javbus , javlibrary 爬虫，线上 AV 影片图书馆，AV 磁力链接数据库，Japanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database
+
+- [server](https://github.com/nextcloud/server) ☁️ Nextcloud server, a safe home for all your data
+
+- [core](https://github.com/owncloud/core) :cloud: ownCloud web server core (Files, DAV, etc.)
+
+## Vim script
+- [SpaceVim](https://github.com/SpaceVim/SpaceVim) A community-driven modular vim distribution - The ultimate vim configuration
+
+- [rust.vim](https://github.com/rust-lang/rust.vim) Vim configuration for Rust.
+
+- [neovim](https://github.com/neovim/neovim) Vim-fork focused on extensibility and usability
+
+- [vim-go](https://github.com/fatih/vim-go) Go development plugin for Vim
+
+- [vimfiles](https://github.com/dalibor/vimfiles) Vim configuration
+
+## Batchfile
+- [dhtcrawler2](https://github.com/btdig/dhtcrawler2) dhtcrawler is a DHT crawler written in erlang. It can join a DHT network and crawl many P2P torrents. The program save all torrent info into database and provide an http interface to search a torrent by a keyword
+
+## Markdown
+- [trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) Rust 程序设计语言（第二版 & 2018 edition）
+
+## Roff
+- [BaiduPCS](https://github.com/GangZhuo/BaiduPCS) 百度网盘命令行工具。The terminal utility for Baidu Network Disk.
+
+## LLVM
+- [llvm](https://github.com/llvm-mirror/llvm) Project moved to: https://github.com/llvm/llvm-project
+
+## QML
+- [Latte-Dock](https://github.com/psifidotos/Latte-Dock) Latte is a dock based on plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids
